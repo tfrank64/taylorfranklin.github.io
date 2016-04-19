@@ -1,0 +1,15 @@
+# url: http://taylorfranklin.me/
+name: Clean Crisp Code
+description: Taylor Franklin, this is what I do
+
+# Site settings
+title: Clean Crisp Code
+tag_text: Clean Crisp Code
+description: Taylor Franklin, write code you like
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
