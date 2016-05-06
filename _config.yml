@@ -1,6 +1,7 @@
 # url: http://taylorfranklin.me/
 name: Clean Crisp Code
-description: Taylor Franklin, this is what I do
+tagline: Taylor Franklin, write code you like
+paginate:     1
 
 # Site settings
 title: Clean Crisp Code
@@ -11,5 +12,14 @@ baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
-# Build settings
-markdown: kramdown
+# About/contact
+author:
+  name:       Taylor Franklin
+  url:        http://taylorfranklin.me/ 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: redcarpet

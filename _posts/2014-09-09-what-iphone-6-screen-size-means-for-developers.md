@@ -52,7 +52,9 @@ What I found was that _the object was pushed off screen_ kind of as I expected. 
 
 #### To update your iOS 7 app to utilize the new iPhone 6 sizes:
 
-Within Xcode, click on your .xcassets file and add a &#8220;New Launch Image&#8221;[<img class="aligncenter wp-image-80" src="http://taylorfranklin.me/wp-content/uploads/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png?w=1024" alt="Screen Shot 2014-09-11 at 6.11.02 PM" width="901" height="552" srcset="http://taylorfranklin.me/wp-content/uploads/2014/09/screen-shot-2014-09-11-at-6-11-02-pm-1024x627.png 1024w, http://taylorfranklin.me/wp-content/uploads/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png 1079w" sizes="(max-width: 901px) 100vw, 901px" />](http://taylorfranklin.me/wp-content/uploads/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png)
+Within Xcode, click on your .xcassets file and add a "New Launch Image"
+
+<img src="http://taylorfranklin.me/wp-content/uploads/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png" alt="sample image">
 
 From there just add a 1242 x 2208 image to the Retina HD 5.5 spot and/or a 750 x 1334 image to the Retina HD 4.7 spot and your app should now recognize these new screen sizes as you would expect. Make sure the set of launch images you want to use is named LaunchImage in your .xcassets and not LaunchImage-1 or something like that.
 
@@ -74,6 +76,6 @@ iPhone 6 Plus: 9:16
 
 Now these calculations are precise so they seem very different, but it turns out, Apple has hardly changed this ratio at all throughout their newest iPhone models. If you reduce those numbers they are different, ever so slightly.
 
-Using the 2 iPhone 6 aspect ratios on a _320 width_, the height always comes to **569**, which is one pixel off the iPhone 5S frame height of 568. This is not a coincidence and I think it was really smart of Apple to stick with this one aspect ratio for all their new iPhones. New iPhones were announced today and they are supposedly &#8220;Bigger than bigger&#8221; according to Apple, so maybe we will see what means soon. The new iPhones are more than just big, I wrote a [quick tutorial](http://taylorfranklin.me/2014/11/17/developing-for-iphone-barometer/) on the barometer included with the iPhone 6 and 6 Plus. The impact of these new devices, I think will be a positive one for users and developers alike.
+Using the 2 iPhone 6 aspect ratios on a _320 width_, the height always comes to **569**, which is one pixel off the iPhone 5S frame height of 568. This is not a coincidence and I think it was really smart of Apple to stick with this one aspect ratio for all their new iPhones. New iPhones were announced today and they are supposedly &#8220;Bigger than bigger&#8221; according to Apple, so maybe we will see what means soon. The new iPhones are more than just big, I wrote a <a href="http://taylorfranklin.me/2014/11/17/developing-for-iphone-barometer/" target="_blank">quick tutorial</a> on the barometer included with the iPhone 6 and 6 Plus. The impact of these new devices, I think will be a positive one for users and developers alike.
 
 <!-- AdSense Now! Lite: PreFiltered - NoAds [ WP is not in the loop. ] -->
