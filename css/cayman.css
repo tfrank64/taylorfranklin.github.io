@@ -53,7 +53,10 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: linear-gradient(120deg, #155799, #B7CBDF); 
+/*url(../images/headerkeyboard.png);*/
+
+}
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 5rem 6rem; } }
@@ -120,7 +123,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: rgb(21,78,153); }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
@@ -239,3 +242,122 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+
+  /* My custom CSS */
+  .logo {
+    width: 0px;
+    height: 0px;
+  }
+
+  @media only screen and (max-width: 1026px) {
+    .logo {
+        display: none;
+    }
+}
+
+  .logo img {
+    width: 250px;
+    height: 250px;
+    margin: -50px 0 0 15px;
+
+/*    width: 650px;
+    height: 650px;
+    margin: -240px 0 0 -240px;
+  overflow:hidden; on .page-header
+    */
+}
+
+@font-face {
+    font-family: 'si';
+    src: url('socicon-1.3/socicon.eot');
+    src: url('socicon-1.3/socicon.eot?#iefix') format('embedded-opentype'),
+         url('socicon-1.3/socicon.woff') format('woff'),
+         url('socicon-1.3/socicon.ttf') format('truetype'),
+         url('socicon-1.3/socicon.svg#icomoonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+ 
+}
+ 
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family:si;
+        src: url(socicon-1.3/socicon.svg) format(svg);
+    }
+}
+
+.soc {
+    overflow:hidden;
+    margin:0; padding:0;
+    list-style:none;
+}
+
+.soc li {
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+}
+
+.soc li a {
+    font-family:si!important;
+    font-style:normal;
+    font-weight:400;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    -o-box-sizing:border-box;
+    box-sizing:border-box;
+
+    -o-transition:.1s;
+    -ms-transition:.1s;
+    -moz-transition:.1s;
+    -webkit-transition:.1s;
+    transition:.1s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+
+    overflow:hidden;
+    text-decoration:none;
+    text-align:center;
+    display:block;
+    position: relative;
+    z-index: 1;
+    width: 58px;
+    height: 58px;
+    line-height: 58px;
+    font-size: 31px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+    color: #5B6F82;
+    background-color: #ffffff;
+}
+
+.soc a:hover {
+    z-index: 2;
+    background-color:#ebebeb !important;
+}
+
+.soc-icon-last{
+    margin:0 !important;
+}
+
+.soc-twitter:before {
+    content:'a';
+}
+.soc-linkedin:before {
+    content:'j';
+}
+.soc-github:before {
+    content:'Q';
+}
+.soc-email1:before {
+    content:'<';
+}
+

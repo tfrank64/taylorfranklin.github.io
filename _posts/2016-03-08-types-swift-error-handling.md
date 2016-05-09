@@ -153,10 +153,10 @@ do {
 }</pre>
 
 <p class="p1">
-  <span class="s1">For additional reading and an exhaustive explanation of why Swift error handling is the way it is, go to <a href="https://github.com/apple/swift/blob/master/docs/ErrorHandlingRationale.rst"><span class="s2">Swift Error Handling Rationale</span></a></span>
+  <span class="s1">For additional reading and an exhaustive explanation of why Swift error handling is the way it is, go to <a href="https://github.com/apple/swift/blob/master/docs/ErrorHandlingRationale.rst" target="_blank"><span class="s2">Swift Error Handling Rationale</span></a></span>
 </p>
 
-### Wrap Up {.p1}
+### Wrap Up
 
 For many iOS tasks, I can get by with just optional unwrapping, but sometimes you need a little something more that explains errors more effectively, such as a do-catch statement. This is especially true when you are writing a framework with a lot of network calls. I hope this post was a good overview and that Swift error handling is not something you need to shy away from, but rather a great tool for developers and your user experience.
 
