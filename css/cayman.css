@@ -80,6 +80,10 @@ a {
     .project-name {
       font-size: 1.75rem; } }
 
+.project-name a {
+  color: white;
+}
+
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
