@@ -68,7 +68,7 @@ a {
       padding: 2rem 1rem; } }
 
 .project-name {
-  margin-top: 0;
+  margin-top: -14px;
   margin-bottom: 0.1rem; }
   @media screen and (min-width: 64em) {
     .project-name {
@@ -81,6 +81,10 @@ a {
       font-size: 1.75rem; } }
 
 .project-name a {
+  color: white;
+}
+
+.project-tagline a {
   color: white;
 }
 
@@ -263,13 +267,7 @@ a {
   .logo img {
     width: 250px;
     height: 250px;
-    margin: -50px 0 0 15px;
-
-/*    width: 650px;
-    height: 650px;
-    margin: -240px 0 0 -240px;
-  overflow:hidden; on .page-header
-    */
+    margin: -20px 0 0 50px;
 }
 
 .titleLink {

@@ -1,6 +1,6 @@
 # url: http://taylorfranklin.me/
 name: Clean Crisp Code
-tagline: Taylor Franklin - write code you like
+tagline: write code you like
 paginate:     1
 
 # Site settings
@@ -15,7 +15,7 @@ font-awesome-include: true # make this false if you don't need font-awesome
 # About/contact
 author:
   name:       Taylor Franklin
-  url:        http://taylorfranklin.me/ 
+  url:        http://taylorfranklin.me/about 
 
 # Gems
 gems:
