@@ -29,12 +29,8 @@ tags:
 ---
 In researching the topic of using the native sharing dialogs in iOS 7, I found it surprisingly difficult. I got tons of information on the Facebook and Twitter development sites, but it was overkill for my needs. I realized that after adding the Facebook SDK to my iOS project&#8230; I also got info from a user perspective on the feature itself and lastly I read Stackoverflow answers on kinda doing it with `FBDialogs` in the Facebook SDK. Anyway, here is a little code snippet of how you can use the native sharing dialogs for Facebook, Twitter, LinkedIn (OS X only), and even Weibo.
 
-First I will show you what you can do if presenting sharing options in a `UIActionSheet` such as what I did in my app so people could share my app. The next thing here is using the `SLComposeViewController`. For some reason it took me awhile to come across it, but it is the key to making the share dialogs happen. Therefore, make sure the Social framework is added to your project and then `#import <Social/Social.h>` into the relevant files so that you use social features such as `SLServiceTypeFacebook`. For reference, here is all the relevant code hosted in a [Github gist](https://gist.github.com/tfrank64/9403006).
+First I will show you what you can do if presenting sharing options in a `UIActionSheet` such as what I did in my app so people could share my app. The next thing here is using the `SLComposeViewController`. For some reason it took me awhile to come across it, but it is the key to making the share dialogs happen. Therefore, make sure the Social framework is added to your project and then `#import <Social/Social.h>` into the relevant files so that you use social features such as `SLServiceTypeFacebook`. For reference, here is all the relevant code hosted in a <a href="https://gist.github.com/tfrank64/9403006" target="_blank">Github gist</a>.
 
-<!-- Missing Gist ID -->
-
-The code snippet above shows the way I chose to implement the `SLComposeViewContrller`. Of course, you still need to create a `UIActionSheet` and declare it&#8217;s delegate, but this is most of what you need and it is fairly simple.
+The code snippet in that gist, shows the way I chose to implement the `SLComposeViewContrller`. Of course, you still need to create a `UIActionSheet` and declare it&#8217;s delegate, but this is most of what you need and it is fairly simple.
 
 So that is about it, I hope you enjoyed the simplicity of this rather than including some external framework.
-
-<!-- AdSense Now! Lite: PreFiltered - NoAds [ WP is not in the loop. ] -->

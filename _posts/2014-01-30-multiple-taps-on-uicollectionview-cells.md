@@ -22,7 +22,7 @@ I have been working on an iOS app at work for a few months now and it is coming 
 
 Problem:
 
-The issue I had today was that multiple taps on a single or many `UICollectionView` Cells would cause the my app to freeze. I narrowed down the issue to be the syncWithServer method I use with the StackMob iOS SDK (Update: StackMob which was shutdown in 2014). This method supposedly runs in the background, but I found with many taps in a short amount of time, it got overloaded (comments on why are welcome). The weird thing is that I have a `UITableView` with a very similar implementation and it does not run into this issue. The reason being, `UITableView` decides not to handle any taps over one at a time, without doing some trick. So I chose a similar solution to fix the issue mentioned above.
+The issue I had today was that multiple taps on a single or many `UICollectionView` Cells would cause the my app to freeze. I narrowed down the issue to be the syncWithServer method I use with the StackMob iOS SDK (Update: StackMob was shutdown in 2014). This method supposedly runs in the background, but I found with many taps in a short amount of time, it got overloaded (comments on why are welcome). The weird thing is that I have a `UITableView` with a very similar implementation and it does not run into this issue. The reason being, `UITableView` decides not to handle any taps over one at a time, without doing some trick. So I chose a similar solution to fix the issue mentioned above.
 
 Solution:
 
