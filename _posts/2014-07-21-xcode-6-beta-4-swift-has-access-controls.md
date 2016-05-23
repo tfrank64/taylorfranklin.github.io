@@ -36,12 +36,11 @@ tags:
   
         • `internal` entities can be accessed anywhere within the target where they are defined.
   
-        • `public` entities can be accessed from anywhere within the target and from any other context
-  
-        that imports the current target’s module.
-  2. Another nice one is the keywords `@final`, `@lazy`, `@optional`, and `@required` are drifting <!--more-->away from any Objective-C roots they had by making the @ sign not required.
+        • `public` entities can be accessed from anywhere within the target and from any other context that imports the current target’s module.
 
-  3. Another nice, almost superficial improvement is Xcode now recognizes comment annotations for the following: //MARK:, //TODO:, and //FIXME. It will also include them in the jump bar so you can &#8220;jump&#8221; right to that point in code. This is nice to have since `#pragma marks` seem to have disappeared in Swift. Some at Apple believe using extensions would make more sense rather than throwing pragma marks everywhere, but I guess that is up to you <img src="http://taylorfranklin.me/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  2. Another nice one is the keywords `@final`, `@lazy`, `@optional`, and `@required` are drifting away from any Objective-C roots they had by making the @ sign not required.
+
+  3. Another nice, almost superficial improvement is Xcode now recognizes comment annotations for the following: `//MARK:`, `//TODO:`, and `//FIXME:`. It will also include them in the jump bar so you can &#8220;jump&#8221; right to that point in code. This is nice to have since `#pragma marks` seem to have disappeared in Swift. Some at Apple believe using extensions would make more sense rather than throwing pragma marks everywhere, but I guess that is up to you <img src="http://taylorfranklin.me/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   4. From what I can tell, the left pane in Xcode has been improved, there is not overlapping icons, which is great. Also, Xcode projects seems to have gotten a more Yosemite UI update. A+ for small UI changes.
   5. Lastly, I never used `.by()` functions, but their replacement of `stride()` functions looks straightforward and readable, kind of like those verbose Objective-C method signatures. Take a look at the examples in the Apple Release notes:
 

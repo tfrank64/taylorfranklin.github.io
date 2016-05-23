@@ -21,11 +21,13 @@ tags:
   - writedrawgame
 ---
 
+So I began working on this app called _WriteDraw_ at the end of January based on inspiration from my wife and my friends. I have been developing iOS apps almost a year now, so I wasn&#8217;t sure I could do everything I wanted to for the app. But I stopped thinking like that and ended up accomplishing everything I wanted&#8230;for version 1.0.
+
 <a href="https://itunes.apple.com/us/app/writedrawgame/id830252077?mt=8" target="_blank">
 <img src="{{ site.url }}/images/2014/03/main-300x300.png">
 </a>
 
-So I began working on this app called _WriteDraw_ at the end of January based on inspiration from my wife and my friends. I have been developing iOS apps almost a year now, so I wasn&#8217;t sure I could do everything I wanted to for the app. But I stopped thinking like that and ended up accomplishing everything I wanted&#8230;for version 1.0. I submitted my app after a month of development, spending many nights getting everything working. It took apple about 8 days to approve my app and only an hour once they actually started reviewing it.
+I submitted my app after a month of development, spending many nights getting everything working. It took apple about 8 days to approve my app and only an hour once they actually started reviewing it.
 
 This has been a little dream of mine, I just wasn&#8217;t sure I could actually bring an iOS app to completion. I did though, and now I want to improve it and make more apps. You can download it from the Apple App Store here: <a href="https://itunes.apple.com/us/app/writedrawgame/id830252077?mt=8" target="_blank">https://itunes.apple.com/us/app/writedrawgame/id830252077?mt=8</a>
 
