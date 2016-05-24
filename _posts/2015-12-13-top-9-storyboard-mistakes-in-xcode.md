@@ -35,7 +35,7 @@ You&#8217;ve probably seen this little checkbox before, but never really knew wh
 
 So you continue on, because why not constrain to margins, it&#8217;s already pre-selected. So yes, there are some benefits to using the margins in storyboard, like having a common element that multiple views are aligned by, as mentioned in this <a href="http://stackoverflow.com/questions/25807545/what-is-constrain-to-margin-in-storyboard-in-xcode-6" target="_blank">Stack Overflow post</a>. Although, aligning to a common element is possible with some other `UIView` or UI anything, but they will be less constant in position than the margin. In my experience though, 96% of the time, I uncheck that constrain to margins checkbox. Most of
 
-<!--more-->
+
 
 the time, I want my views to stretch to the edges of the screen on whatever device they are on. The main point here is that that checkbox can be useful, but most of the time developers leave it checked, unaware that it will cause odd looking UI because they never intended to constrain to margins.
 

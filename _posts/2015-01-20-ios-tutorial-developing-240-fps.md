@@ -33,7 +33,7 @@ We&#8217;ll start by assuming you have a basic UIViewController set up. There ar
 var videoPreviewLayer: AVCaptureVideoPreviewLayer?
 var captureDevice: AVCaptureDevice?</pre>
 
-Now in your `viewDidLoad`, you need to make sure your `AVCaptureDevice` is ready and able:<!--more-->
+Now in your `viewDidLoad`, you need to make sure your `AVCaptureDevice` is ready and able:
 
 <pre class="theme:classic lang:swift decode:true" title="capture device set up">captureSession.sessionPreset = AVCaptureSessionPresetHigh
         

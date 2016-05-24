@@ -23,5 +23,3 @@ Have you ever been stuck on a memory issue in your iOS app for days? To be hones
 You can check out my IBM Developer Works article here: <a href="http://www.ibm.com/developerworks/library/mo-ios-memory/" target="_blank">http://www.ibm.com/developerworks/library/mo-ios-memory/</a>
 
 Thanks for reading!
-
-<!-- AdSense Now! Lite: PreFiltered - NoAds [ WP is not in the loop. ] -->

@@ -68,7 +68,7 @@ class WeatherManager {
 
 ### <span class="s1">2. Handle the error using a do-catch statement</span> {.p1}
 
-<!--more-->
+
 
 <pre class="lang:swift decode:true ">var weatherManager = WeatherManager()
 var isSafe: Bool? {
