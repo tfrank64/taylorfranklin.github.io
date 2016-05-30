@@ -50,7 +50,7 @@ muut_post_settings:
 <div class="post-container">                
     <div class="post-thumb">
       <p style="padding-left: 10px;">
-        <img src="http://taylorfranklin.me/wp-content/uploads/2014/01/IMG_9266.jpg">
+        <img src="{{ site.url }}/2014/01/IMG_9266.jpg">
       </p>
     </div>
     <div class="post-content">
