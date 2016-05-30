@@ -42,9 +42,9 @@ I enjoy discovering new and trending repositories on Github. So when I come acro
 
 <img class="aligncenter" src="https://camo.githubusercontent.com/20ccae14b0cfbee5bcd3867df4e2c5c51909d989/687474703a2f2f7777772e6d617474656f676f6262692e69742f66696c65732d686f7374696e672f4d4753706f747956696577566964656f2d736d616c6c65722e676966" alt="MGSpotyViewController" width="300" height="535" />
 
-There is similar story for how I came across CRPixellatedView and I just loved the effect.
+There is similar story for how I came across <a href="https://github.com/chroman/CRPixellatedView" target="_blank">CRPixellatedView</a> and I just loved the effect.
 
-<img class="aligncenter" src="https://camo.githubusercontent.com/fa00bd7b49d4b0fc0d5b2ff6cdbdb2a293521221/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031342f30362f4352506978656c6c61746564566965772e676966" alt="CRPixellatedView" width="318" height="318" />
+<!-- <img class="aligncenter" src="https://camo.githubusercontent.com/fa00bd7b49d4b0fc0d5b2ff6cdbdb2a293521221/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031342f30362f4352506978656c6c61746564566965772e676966" alt="CRPixellatedView" width="318" height="318" /> -->
 
 I had noticed a lot of iOS apps were doing the expanding image with their table view headers and I wondered how I could take it one step further. Therefore, I made my own little project and began fusing these two amazing projects.
 
