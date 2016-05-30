@@ -7,7 +7,7 @@ paginate:     1
 title: Clean Crisp Code
 tag_text: Clean Crisp Code
 description: Taylor Franklin - write code you like
-url: "http://127.0.0.1:4000"
+url: "http://taylorfranklin.me"
 baseurl: ""
 
 font-awesome-include: true # make this false if you don't need font-awesome
