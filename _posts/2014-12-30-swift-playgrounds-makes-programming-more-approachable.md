@@ -37,7 +37,7 @@ Full Sail University now offers a full class devoted to learning the Swift prog
 
 The big reason I believe Swift has gotten so popular with these universities is because of Swift playgrounds in Xcode. It is a unique feature I haven&#8217;t seen anywhere else and it makes learning programming more satisfying and less frustrating. Not long ago I was taking a C++ course where I had to make changes to my .cpp file, save it, compile it in a terminal, and then run it. With Swift playgrounds you can write your code and see it rendered in real-time. This is huge for developers! Here is why:
 
-  * The time you save not having to compile manually is great. You don&#8217;t even have to move your fingers from the keyboard giving you a great, time to understanding ratio.
+  * The time you save not having to compile manually is great. You don&#8217;t even have to move your fingers from the keyboard giving you a great, time-to-understanding ratio.
   * The visual aspect of Swift playgrounds is great because it lets you see what your code is doing in a visual way. There is no need to overthink what is actually happening when your code runs, you can visually see the results and make smart conclusions from that.
   * Quick testing: Swift playgrounds are also useful if you just want to test a small snippet of code. This is great if you are already working in a big iOS project and you want to test if your logic is right in a tricky piece of code before implementing it into your primary project.
 

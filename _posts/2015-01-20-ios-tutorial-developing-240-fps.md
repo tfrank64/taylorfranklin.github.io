@@ -132,10 +132,8 @@ You need to be aware of a few things that could cause you some frustration if no
 
   * Changing format values like `activeFormat` and neglecting to call `lockForConfiguration` will cause your app to terminate.
   * Changing properties like `activeVideoMinFrameDuration` before setting your `activeFormat` will also terminate your app. Additionally, forgetting to set the `activeFormat` at all&#8230;will terminate your app.
-  * Lastly, be aware if 240 FPS is not available on your device, it will fallback to the default frame rate for your device, but I must say, it will not terminate your app <img src="http://taylorfranklin.me/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  * Lastly, be aware if 240 FPS is not available on your device, it will fallback to the default frame rate for your device, but I must say, it will not terminate your app &#128515;
 
 ### Slo-mo Activated!
 
 Now, you can implement slo-mo video capture, outside of the default Camera app. In addition to that, this is a great introduction to `AVFoundation` and video capture in iOS development. I didn&#8217;t cover saving the video in this iOS tutorial, but I may in the future (hint: check out `AVCaptureOutput`). Even if this is your first time to my blog, let <a href="https://twitter.com/tfrank64" target="_blank">me</a> know what you liked and what you found most helpful. Have a good one!
-
-<!-- AdSense Now! Lite: PreFiltered - NoAds [ WP is not in the loop. ] -->

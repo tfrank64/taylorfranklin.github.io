@@ -23,7 +23,7 @@ tags:
   - ios
   - swift
 ---
-I recently did an informal presentation on error handling in Swift to inform others on the variety of options we have with Swift. I used an Xcode playground to present this topic and it ended up surprising all of us with how many interesting features playgrounds have. That playground can be downloaded [here](http://taylorfranklin.me/wp-content/uploads/2016/03/ErrorHandles.playground.zip) or you can just read this post for info (be sure to check out the playground fun at the bottom).
+I recently did an informal presentation on error handling in Swift to inform others on the variety of options we have with Swift. I used an Xcode playground to present this topic and it ended up surprising all of us with how many interesting features playgrounds have. That playground can be downloaded [here]({{ site.url }}/images/2016/03/ErrorHandles.playground.zip) or you can just read this post for info (be sure to check out the playground fun at the bottom).
 
 There are 4 main types of error handling <a href="https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html" target="_blank">Apple mentions</a> with Swift.
 
@@ -66,7 +66,7 @@ class WeatherManager {
   I would use this when I have a method I will call a lot and a method that could have multiple things go wrong for which the method caller will need to know about. No user or dev likes the description-less error, such as &#8220;An error occurred&#8221;.
 </p>
 
-### <span class="s1">2. Handle the error using a do-catch statement</span> {.p1}
+### 2. Handle the error using a do-catch statement
 
 
 
@@ -91,7 +91,7 @@ do {
 
 Very similar to try-catch statements in other languages, it is more focused on how you handle an error result rather than translating something else into an error case. For example, method #1 in this list is more for the person writing a framework, however simple, and method #2 here, is for the person consuming that framework.
 
-### 3. <span class="s1">Handle the error as an optional value</span>
+### 3. Handle the error as an optional value
 
 <pre class="lang:swift decode:true ">// If any error, value is nil
 if let _ = try? weatherManager.isWeatherSafe() {
@@ -108,7 +108,7 @@ This is essentially doing the optional unwrap you all should be familiar with by
 
 <pre class="lang:swift decode:true">let photo = try! loadImage("./Resources/John Appleseed.jpg")</pre>
 
-### 4. <span class="s1">Assert that an error will not occur</span>
+### 4. Assert that an error will not occur
 
 <pre class="lang:swift decode:true ">func transformString(string: String?) -&gt; String {
     assert(string != nil, "Invalid parameter")
