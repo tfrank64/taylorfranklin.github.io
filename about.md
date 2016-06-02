@@ -4,7 +4,7 @@ title: About
 date: 2014-01-31T00:00:48+00:00
 author: tfranklin
 layout: page
-guid: http://cleancrispcode.wordpress.com/?page_id=1
+permalink: /about/index.html
 geo_public:
   - 0
 muut_post_domain:

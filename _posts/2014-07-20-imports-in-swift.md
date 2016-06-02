@@ -4,7 +4,6 @@ title: Imports in Swift
 date: 2014-07-20T16:41:14+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=45
 permalink: /2014/07/20/imports-in-swift/
 geo_public:
   - 0

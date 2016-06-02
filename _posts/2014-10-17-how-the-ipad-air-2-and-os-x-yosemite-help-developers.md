@@ -4,7 +4,6 @@ title: How the iPad Air 2 and OS X Yosemite Help Developers
 date: 2014-10-17T09:06:02+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=131
 permalink: /2014/10/17/how-the-ipad-air-2-and-os-x-yosemite-help-developers/
 muut_post_domain:
   - taylorfranklin.me

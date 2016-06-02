@@ -4,7 +4,6 @@ title: Anyone can open source software
 date: 2014-09-27T11:02:29+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=82
 permalink: /2014/09/27/anyone-can-open-source-software/
 geo_public:
   - 0

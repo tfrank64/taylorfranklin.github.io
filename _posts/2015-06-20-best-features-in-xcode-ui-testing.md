@@ -4,7 +4,6 @@ title: Best features in Xcode UI Testing
 date: 2015-06-20T07:55:54+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=272
 permalink: /2015/06/20/best-features-in-xcode-ui-testing/
 muut_last_active_tab:
   - 0

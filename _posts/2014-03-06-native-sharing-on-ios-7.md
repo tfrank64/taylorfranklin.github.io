@@ -4,7 +4,6 @@ title: Native Sharing on iOS 7
 date: 2014-03-06T19:01:57+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=21
 permalink: /2014/03/06/native-sharing-on-ios-7/
 muut_post_domain:
   - taylorfranklin.me

@@ -4,7 +4,6 @@ title: 'iOS Tutorial: Developing with 240 FPS'
 date: 2015-01-20T11:45:32+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=218
 permalink: /2015/01/20/ios-tutorial-developing-240-fps/
 muut_last_active_tab:
   - 0

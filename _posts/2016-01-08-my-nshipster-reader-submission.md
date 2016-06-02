@@ -4,7 +4,6 @@ title: My NSHipster Reader Submission
 date: 2016-01-08T10:24:47+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=313
 permalink: /2016/01/08/my-nshipster-reader-submission/
 muut_last_active_tab:
   - commenting-tab

@@ -4,7 +4,6 @@ title: 5 Subtle Features in iOS 8
 date: 2014-10-27T06:47:02+00:00
 author: tfranklin
 layout: post
-guid: http://104.131.96.158/?p=3
 permalink: /2014/10/27/5-subtle-features-ios-8/
 muut_post_domain:
   - taylorfranklin.me

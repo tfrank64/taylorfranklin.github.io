@@ -4,7 +4,6 @@ title: 'Xcode 6 Beta 4: Swift has access controls'
 date: 2014-07-21T21:39:03+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=55
 permalink: /2014/07/21/xcode-6-beta-4-swift-has-access-controls/
 geo_public:
   - 0

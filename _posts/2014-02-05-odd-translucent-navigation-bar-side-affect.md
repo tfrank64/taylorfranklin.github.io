@@ -4,7 +4,6 @@ title: Odd Translucent Navigation Bar Side Affect
 date: 2014-02-05T23:59:31+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=6
 permalink: /2014/02/05/odd-translucent-navigation-bar-side-affect/
 muut_post_domain:
   - taylorfranklin.me

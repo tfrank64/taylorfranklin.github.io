@@ -4,7 +4,6 @@ title: WriteDraw is on the App Store
 date: 2014-03-15T10:50:08+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=34
 permalink: /2014/03/15/writedraw-is-on-the-app-store/
 categories:
   - iOS

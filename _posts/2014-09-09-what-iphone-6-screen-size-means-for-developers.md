@@ -4,7 +4,6 @@ title: What iPhone 6 screen size means for developers
 date: 2014-09-09T22:34:38+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=65
 permalink: /2014/09/09/what-iphone-6-screen-size-means-for-developers/
 geo_public:
   - 0

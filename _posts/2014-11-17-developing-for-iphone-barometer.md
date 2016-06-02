@@ -4,7 +4,6 @@ title: Developing for the iPhone Barometer
 date: 2014-11-17T03:17:12+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=136
 permalink: /2014/11/17/developing-for-iphone-barometer/
 muut_use_muut_commenting:
   - 1

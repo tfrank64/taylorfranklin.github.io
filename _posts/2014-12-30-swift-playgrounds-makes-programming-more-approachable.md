@@ -4,7 +4,6 @@ title: Swift Playgrounds Makes Programming More Approachable
 date: 2014-12-30T06:20:13+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=134
 permalink: /2014/12/30/swift-playgrounds-makes-programming-more-approachable/
 muut_post_domain:
   - taylorfranklin.me

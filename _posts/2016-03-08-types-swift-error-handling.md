@@ -4,7 +4,6 @@ title: Types of Swift Error Handling
 date: 2016-03-08T19:00:28+00:00
 author: tfranklin
 layout: post
-guid: http://taylorfranklin.me/?p=321
 permalink: /2016/03/08/types-swift-error-handling/
 muut_last_active_tab:
   - commenting-tab

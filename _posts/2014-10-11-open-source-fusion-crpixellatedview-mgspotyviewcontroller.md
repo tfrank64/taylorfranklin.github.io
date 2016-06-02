@@ -4,7 +4,6 @@ title: 'Open Source Fusion: CRPixellatedView &#038; MGSpotyViewController'
 date: 2014-10-11T10:19:20+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=97
 permalink: /2014/10/11/open-source-fusion-crpixellatedview-mgspotyviewcontroller/
 geo_public:
   - 0

@@ -4,7 +4,6 @@ title: Multiple Taps on UICollectionView Cells
 date: 2014-01-30T18:48:44+00:00
 author: tfranklin
 layout: post
-guid: http://cleancrispcode.wordpress.com/?p=4
 permalink: /2014/01/30/multiple-taps-on-uicollectionview-cells/
 categories:
   - iOS
@@ -36,5 +35,3 @@ After trying a timer and custom background queue workaround, I simply tried to d
 Those helper methods, of course, are from the following StackOverflow <a href="http://stackoverflow.com/questions/12033080/use-of-mbprogresshud-globally-make-it-singleton" target="_blank">post</a>. I&#8217;m sure there are some downsides to the Global Progress HUD since it is not run on a background thread, but it works well. I was able to dismiss the HUD because of an `NSNotifcation` posted from the syncWithServer Completion block. Those two line (in different locations of course) fixed my issue and keeps my app from freezing.
 
 Thanks for reading! I look forward to more posts.
-
-<!-- AdSense Now! Lite: PreFiltered - NoAds [ WP is not in the loop. ] -->
