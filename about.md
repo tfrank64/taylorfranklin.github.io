@@ -3,7 +3,7 @@ id: 5
 title: About
 date: 2014-01-31T00:00:48+00:00
 author: tfranklin
-layout: page
+layout: default
 permalink: /about/index.html
 geo_public:
   - 0
@@ -34,6 +34,7 @@ muut_post_settings:
   }
   .post-thumb img {
       margin-top: 0px;
+      height: 330px;
   }
   .post-content {
     display: block
