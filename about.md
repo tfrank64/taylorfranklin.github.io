@@ -22,23 +22,22 @@ muut_post_settings:
 <style type="text/css">
 
   .post-container {
-      width: 700px;
-      margin: 20px 20px 0 -20px;  
+      width: 100%;
+      margin: 6px auto; padding: 2px; 
       overflow: auto
+      text-align: center;
   }
   .post-thumb {
       float: right;
-  }
-  .post-thumb {
-      width: 300px;
+      padding-left: 10px;
   }
   .post-thumb img {
       margin-top: 0px;
-      height: 330px;
+      width: 250px;
   }
   .post-content {
-    display: block
-      margin-left: 270px;
+      display: block;
+      padding-left: 10px;
       margin-top: 30px;
   }
   .post-title {
@@ -50,12 +49,12 @@ muut_post_settings:
 
 <div class="post-container">                
     <div class="post-thumb">
-      <p style="padding-left: 10px;">
+      <p>
         <img src="{{ site.url }}/images/2014/01/IMG_9266.jpg">
       </p>
     </div>
     <div class="post-content">
-      <p style="padding-left: 30px;">
+      <p>
         My name is Taylor Franklin, I've primarily developed mobile iOS applications, but currently I've been working on web frameworks with open source Swift. This blog is about my observations, findings, and things I think would be helpful for others. I didn&#8217;t start mobile development until iOS 6, but once I started, I couldn&#8217;t stop, whether it was at school, past jobs, my current career, or in my own free time.
       </p>
 
