@@ -31,7 +31,7 @@ Next, we need to create a `CMAltimeter` object, but a <span style="color: #ff000
 
 I recommend creating a simple UI in Storyboard so you can actually begin tracking the altitude and pressure later on. Something like the following will suffice:
 
-[<img class="aligncenter size-full wp-image-182" src="{{ site.url }}/images/2014/11/Screen-Shot-2014-11-10-at-7.01.15-PM.png" alt="UIButton action" width="623" height="167" srcset="{{ site.url }}/images/2014/11/Screen-Shot-2014-11-10-at-7.01.15-PM-300x80.png 300w, {{ site.url }}/images/2014/11/Screen-Shot-2014-11-10-at-7.01.15-PM.png 623w" sizes="(max-width: 623px) 100vw, 623px" />]({{ site.url }}/images/2014/11/Screen-Shot-2014-11-10-at-7.01.15-PM.png)
+[![UIButton action]({{ site.url }}/images/2014/11/Screen-Shot-2014-11-10-at-7.01.15-PM.png)]({{ site.url }}/images/2014/11/Screen-Shot-2014-11-10-at-7.01.15-PM.png){:target="_blank"}
 
 As you can see, I just created a button and IBAction so we are ready to begin monitoring with our barometer.
 

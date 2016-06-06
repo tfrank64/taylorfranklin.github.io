@@ -60,9 +60,7 @@ Instead, this is what it might look like in Swift:
 
 In addition, you don&#8217;t have to import System frameworks (i.e. CoreData, UIKit) manually from your build phases menu. Although, this feature has been around since Xcode 5 at least, but it is still really nice! For example, more than half of the following includes are not necessary:
 
-<a href="{{ site.url }}/images/2014/07/screen-shot-2014-07-20-at-5-29-55-pm.png" target="_blank">
-<img src="{{ site.url }}/images/2014/07/screen-shot-2014-07-20-at-5-29-55-pm.png">
-</a>
+[![frameworks xcode]({{ site.url }}/images/2014/07/screen-shot-2014-07-20-at-5-29-55-pm.png)]({{ site.url }}/images/2014/07/screen-shot-2014-07-20-at-5-29-55-pm.png){:target="_blank"}
 
 Don&#8217;t do this! (anymore)
 

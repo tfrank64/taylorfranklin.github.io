@@ -59,14 +59,14 @@ What I found was that _the object was pushed off screen_ kind of as I expected. 
 
 Within Xcode, click on your .xcassets file and add a "New Launch Image"
 
-<img src="{{ site.url }}/images/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png" alt="sample image">
+[![image assets]({{ site.url }}/images/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png)]({{ site.url }}/images/2014/09/screen-shot-2014-09-11-at-6-11-02-pm.png){:target="_blank"}
 
 From there just add a 1242 x 2208 image to the Retina HD 5.5 spot and/or a 750 x 1334 image to the Retina HD 4.7 spot and your app should now recognize these new screen sizes as you would expect. Make sure the set of launch images you want to use is named LaunchImage in your .xcassets and not LaunchImage-1 or something like that.
 
 For my app, things still looked pretty good, they just look more spread out since there is more screen space. In some part of the app though, there is a lot of white space for the same reason.
 
 <p style="text-align:center;">
-    <img src="{{ site.url }}/images/2014/09/screen-shot-2014-09-09-at-11-23-26-pm.png" alt="sample image">
+    <img src="{{ site.url }}/images/2014/09/screen-shot-2014-09-09-at-11-23-26-pm.png" alt="bigger than big">
 </p>
 
 ### iPhone 6 Aspect Ratio Comparison

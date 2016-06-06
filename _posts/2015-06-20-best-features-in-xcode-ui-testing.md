@@ -33,8 +33,7 @@ With Xcode 7, you can now record interactions with your app and those interactio
 
 Xcode will take screenshots of your app at every significant event in your UI tests. For example when you tap on an element, scroll through a table view, or figuratively any UI action you can perform. I see this as primarily useful in viewing the state of your app prior to an assertion failure or invalid command. In addition, being able to see a &#8220;stack trace&#8221; of sorts can show what led to your success or failure. The following is a simple example of what you might see:
 
-<img src="{{ site.url }}/images/2015/06/Screen-Shot-2015-06-19-at-7.11.32-PM-1200x750.png" alt="auto-screenshot image">
-
+[![auto-screenshot image]({{ site.url }}/images/2015/06/Screen-Shot-2015-06-19-at-7.11.32-PM-1200x750.png)]({{ site.url }}/images/2015/06/Screen-Shot-2015-06-19-at-7.11.32-PM-1200x750.png){:target="_blank"}
 
 #### 3. UI Testing is built into Xcode, not just Instruments
 
@@ -56,6 +55,6 @@ In the <a href="https://developer.apple.com/videos/wwdc/2015/?id=406" target="_b
 
 Having a record of your testing as you go is such a useful feature, it speaks for itself:
 
-<img src="{{ site.url }}/images/2015/06/Screen-Shot-2015-06-19-at-7.41.46-PM.png" alt="report navigator">
+[![report navigator]({{ site.url }}/images/2015/06/Screen-Shot-2015-06-19-at-7.41.46-PM.png)]({{ site.url }}/images/2015/06/Screen-Shot-2015-06-19-at-7.41.46-PM.png){:target="_blank"}
 
 That&#8217;s it for today, I hope you enjoy the usefulness of these new features as much as I will.
