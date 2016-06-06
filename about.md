@@ -45,6 +45,12 @@ muut_post_settings:
       font-size: 200%
   }
 
+  @media (max-width: 460px) { 
+    .post-thumb {
+      float: none;
+    }
+  }
+
 </style>
 
 <div class="post-container">                
