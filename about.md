@@ -56,7 +56,7 @@ muut_post_settings:
 <div class="post-container">                
     <div class="post-thumb">
       <p>
-        <img src="{{ site.url }}/images/2014/01/IMG_9266.jpg">
+        <img src="{{ site.url }}/images/2014/01/IMG_9266-1200x1800.jpg">
       </p>
     </div>
     <div class="post-content">
