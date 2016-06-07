@@ -5,10 +5,7 @@ date: 2014-02-05T23:59:31+00:00
 author: tfranklin
 layout: post
 permalink: /2014/02/05/odd-translucent-navigation-bar-side-affect/
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
 tags:
