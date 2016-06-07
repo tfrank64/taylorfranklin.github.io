@@ -5,6 +5,7 @@ date: 2014-09-27T11:02:29+00:00
 author: tfranklin
 layout: post
 permalink: /2014/09/27/anyone-can-open-source-software/
+comments: true
 geo_public:
   - 0
 categories:

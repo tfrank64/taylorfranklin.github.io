@@ -5,10 +5,7 @@ date: 2015-12-13T07:46:32+00:00
 author: tfranklin
 layout: post
 permalink: /2015/12/13/top-9-storyboard-mistakes-in-xcode/
-muut_last_active_tab:
-  - 0
-muut_use_muut_commenting:
-  - 1
+comments: true
 categories:
   - Uncategorized
 tags:

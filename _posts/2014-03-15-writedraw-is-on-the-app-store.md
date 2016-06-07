@@ -5,6 +5,7 @@ date: 2014-03-15T10:50:08+00:00
 author: tfranklin
 layout: post
 permalink: /2014/03/15/writedraw-is-on-the-app-store/
+comments: true
 categories:
   - iOS
 tags:

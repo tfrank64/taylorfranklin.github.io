@@ -5,10 +5,7 @@ date: 2015-01-20T11:45:32+00:00
 author: tfranklin
 layout: post
 permalink: /2015/01/20/ios-tutorial-developing-240-fps/
-muut_last_active_tab:
-  - 0
-muut_use_muut_commenting:
-  - 1
+comments: true
 categories:
   - iOS
   - iOS Tutorials

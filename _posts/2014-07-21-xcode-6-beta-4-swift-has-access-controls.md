@@ -7,10 +7,7 @@ layout: post
 permalink: /2014/07/21/xcode-6-beta-4-swift-has-access-controls/
 geo_public:
   - 0
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
 tags:

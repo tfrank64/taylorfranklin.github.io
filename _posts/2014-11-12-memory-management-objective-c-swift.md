@@ -5,10 +5,7 @@ date: 2014-11-12T08:26:15+00:00
 author: tfranklin
 layout: post
 permalink: /2014/11/12/memory-management-objective-c-swift/
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
 tags:

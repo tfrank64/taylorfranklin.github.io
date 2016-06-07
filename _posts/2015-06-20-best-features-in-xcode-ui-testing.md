@@ -5,14 +5,7 @@ date: 2015-06-20T07:55:54+00:00
 author: tfranklin
 layout: post
 permalink: /2015/06/20/best-features-in-xcode-ui-testing/
-muut_last_active_tab:
-  - 0
-muut_post_settings:
-  - 'a:1:{s:19:"commenting_settings";a:3:{s:11:"enabled-tab";s:1:"1";s:4:"type";s:4:"flat";s:15:"disable_uploads";s:1:"0";}}'
-muut_post_domain:
-  - taylorfranklin.me
-muut_use_muut_commenting:
-  - 1
+comments: true
 categories:
   - iOS
 tags:

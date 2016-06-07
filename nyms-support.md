@@ -5,12 +5,30 @@ date: 2015-04-26T06:37:17+00:00
 author: tfranklin
 layout: default
 permalink: /nyms-support/index.html
-muut_last_active_tab:
-  - forum-tab
-muut_post_settings:
-  - 'a:1:{s:14:"forum_settings";a:4:{s:11:"enabled-tab";s:1:"1";s:22:"show_comments_in_forum";s:1:"1";s:11:"hide_online";s:1:"0";s:15:"disable_uploads";s:1:"0";}}'
-muut_use_muut_commenting:
-  - 1
+comments: true
 ---
 
-Nothing offical here currently, shoot me an <a href="mailto:tlf09a@acu.edu">email</a> if you have issue.
+Comment here with any issues or requests.
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = "{{ site.url }}{{ page.url }}";
+this.page.identifier = "{{ page.id }}";
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//taylorfranklin.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{% endif %}

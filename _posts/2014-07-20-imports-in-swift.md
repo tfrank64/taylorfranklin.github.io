@@ -7,14 +7,7 @@ layout: post
 permalink: /2014/07/20/imports-in-swift/
 geo_public:
   - 0
-muut_post_domain:
-  - taylorfranklin.me
-muut_use_muut_commenting:
-  - 1
-muut_last_active_tab:
-  - commenting-tab
-muut_post_settings:
-  - 'a:1:{s:19:"commenting_settings";a:3:{s:11:"enabled-tab";s:1:"1";s:4:"type";s:4:"flat";s:15:"disable_uploads";s:1:"0";}}'
+comments: true
 categories:
   - iOS
 tags:

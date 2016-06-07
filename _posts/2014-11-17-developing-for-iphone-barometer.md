@@ -5,10 +5,7 @@ date: 2014-11-17T03:17:12+00:00
 author: tfranklin
 layout: post
 permalink: /2014/11/17/developing-for-iphone-barometer/
-muut_use_muut_commenting:
-  - 1
-muut_last_active_tab:
-  - 0
+comments: true
 categories:
   - iOS
 tags:

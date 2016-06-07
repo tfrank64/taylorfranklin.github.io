@@ -5,16 +5,13 @@ date: 2014-10-11T10:19:20+00:00
 author: tfranklin
 layout: post
 permalink: /2014/10/11/open-source-fusion-crpixellatedview-mgspotyviewcontroller/
+comments: true
 geo_public:
   - 0
 mashsb_shares:
   - 100,170,276,329,486,583,635,736,875,0,0
 mashsb_timestamp:
   - 1413147640
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
 categories:
   - iOS
   - Open Source

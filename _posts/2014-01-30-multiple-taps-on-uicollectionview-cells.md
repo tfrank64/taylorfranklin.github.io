@@ -5,6 +5,7 @@ date: 2014-01-30T18:48:44+00:00
 author: tfranklin
 layout: post
 permalink: /2014/01/30/multiple-taps-on-uicollectionview-cells/
+comments: true
 categories:
   - iOS
 tags:

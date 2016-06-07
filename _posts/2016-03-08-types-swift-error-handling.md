@@ -5,14 +5,7 @@ date: 2016-03-08T19:00:28+00:00
 author: tfranklin
 layout: post
 permalink: /2016/03/08/types-swift-error-handling/
-muut_last_active_tab:
-  - commenting-tab
-muut_post_settings:
-  - 'a:1:{s:19:"commenting_settings";a:3:{s:11:"enabled-tab";s:1:"1";s:4:"type";s:4:"flat";s:15:"disable_uploads";s:1:"0";}}'
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
   - Swift

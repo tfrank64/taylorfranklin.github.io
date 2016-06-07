@@ -5,6 +5,7 @@ date: 2014-09-09T22:34:38+00:00
 author: tfranklin
 layout: post
 permalink: /2014/09/09/what-iphone-6-screen-size-means-for-developers/
+comments: true
 geo_public:
   - 0
 mashsb_shares:

@@ -5,10 +5,7 @@ date: 2014-10-17T09:06:02+00:00
 author: tfranklin
 layout: post
 permalink: /2014/10/17/how-the-ipad-air-2-and-os-x-yosemite-help-developers/
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
 tags:

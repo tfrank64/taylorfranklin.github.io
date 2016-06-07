@@ -5,10 +5,7 @@ date: 2014-03-06T19:01:57+00:00
 author: tfranklin
 layout: post
 permalink: /2014/03/06/native-sharing-on-ios-7/
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
 tags:

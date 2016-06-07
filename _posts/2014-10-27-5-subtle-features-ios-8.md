@@ -5,10 +5,7 @@ date: 2014-10-27T06:47:02+00:00
 author: tfranklin
 layout: post
 permalink: /2014/10/27/5-subtle-features-ios-8/
-muut_post_domain:
-  - taylorfranklin.me
-muut_comments_count:
-  - 0
+comments: true
 categories:
   - iOS
 tags:
