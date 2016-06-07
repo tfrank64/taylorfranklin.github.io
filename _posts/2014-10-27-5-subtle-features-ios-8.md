@@ -19,7 +19,7 @@ You&#8217;ve probably seen lists like this before, but I hope to go even further
 
 ### 1. Message highlighting on the lock screen
 
-<img src="{{ site.url }}/images/2014/10/IMG_0108-575x1024.png" alt="message highlighting" width="60%" />
+<img src="{{ site.url }}/images/2014/10/IMG_0108.png" alt="message highlighting" width="60%" />
 
 This is a small feature, but it is pretty useful in seeing the latest notification quickly. There are times when I read a text message on my lock screen, but there is no need  to reply, so I don&#8217;t unlock my phone. With this, I can easily see if there is a new text without looking closely at the time stamps.
 
