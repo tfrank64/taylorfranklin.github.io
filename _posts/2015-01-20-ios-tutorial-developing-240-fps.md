@@ -122,7 +122,7 @@ When researching what camera capabilities developers had access to with the new 
   3. Loop through formats until you find one that supports 240 fps.
   4. Lock configuration, set the current format along with the frame rates you want with `maxFrameDuration` being the most important part.
 
-**\* Pitfalls \***
+**Pitfalls**
 
 You need to be aware of a few things that could cause you some frustration if not taken care of.
 
