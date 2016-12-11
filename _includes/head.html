@@ -1,7 +1,11 @@
 <head>
   <meta charset="UTF-8">
   {% include twitter_card.html %}
-  <title>{{ page.title }}</title>
+  {% if page.url == '/' %}
+    <title>{{ site.title }}</title>
+  {% else %}
+    <title>{{ page.title }}</title>
+  {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
