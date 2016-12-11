@@ -1,5 +1,11 @@
 ---
 published: true
+title: Moving From iOS To Server-Side Swift 
+date: 2016-12-11T07:09:29+00:00 
+author: tfranklin
+layout: post
+permalink: /2016/12/11/moving-from-iOS-to-server-side-swift/
+comments: true
 ---
 My name is Taylor and since 2013 I have been working heads down in Swift iOS development. I did a lot of fun work in that time, made some great UIs, coded some cool features, but I felt it was time to expand my skills. Luckily, Apple open-sourced the Swift programming language around a year ago from today. With that news and almost immediate work being done with Swift on the server, I was provided a unique opportunity to get out of my comfort zone, but still get to visit often. Thus, I switched gears in March 2016 and began focusing on Swift server-side app development, here is how it went.
 

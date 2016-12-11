@@ -1,4 +1,3 @@
-# url: http://taylorfranklin.me/
 name: Clean Crisp Code
 tagline: write code you like
 paginate:     1
@@ -11,7 +10,6 @@ url: "http://taylorfranklin.me"
 # url: "http://127.0.0.1:4000"
 baseurl: ""
 twitter_username: tfrank64
-
 font-awesome-include: true # make this false if you don't need font-awesome
 
 # About/contact
