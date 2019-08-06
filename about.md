@@ -61,7 +61,7 @@ muut_post_settings:
     </div>
     <div class="post-content">
       <p>
-        My name is Taylor Franklin, I've primarily developed mobile iOS applications, but currently I've been working on web frameworks with open source Swift. This blog is about my observations, findings, and things I think would be helpful for others. I didn&#8217;t start mobile development until iOS 6, but once I started, I couldn&#8217;t stop, whether it was at school, past jobs, my current career, or in my own free time.
+        My name is Taylor Franklin, I've primarily developed mobile iOS applications, but have gained experince in web and Android development with my current mobile dev position at Visa. This blog is about my observations, findings, and things I think would be helpful for others. I didn&#8217;t start mobile development until iOS 6, but once I started, I couldn&#8217;t stop, whether it was at school, past jobs, my current career, or in my own free time.
       </p>
 
    </div>
@@ -76,6 +76,7 @@ muut_post_settings:
 
 #### Published Work
 
+* Visa Developer Community: <a href="https://community.developer.visa.com/t5/Developer-Tools/Integrating-the-Visa-Checkout-Mobile-SDK-into-your-mobile-app/ba-p/11732" target="_blank">Integrating the Visa Checkout Mobile SDK</a>
 * iOS Memory Tips (<a href="http://www.ibm.com/developerworks/library/mo-ios-memory/" target="_blank">IBM DeveloperWorks</a>)
 * Admitopia: <a href="http://admitopia.com/youll-thank-yourself-later/" target="_blank">College Advice</a>
 
